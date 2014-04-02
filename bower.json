@@ -8,8 +8,8 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "angular": "~1.0.x",
-    "angular-ui-bootstrap-bower": "~0.4.0",
+    "angular": "~1.2.x",
+    "angular-ui-bootstrap-bower": "~0.8.0",
     "bootstrap-css": "2.x"
   }
 }
