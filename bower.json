@@ -11,5 +11,6 @@
     "angular": "~1.2.x",
     "angular-ui-bootstrap-bower": "~0.10.0",
     "bootstrap-css": "3.x"
-  }
+  },
+  "version": "2.0.1"
 }
